@@ -1,9 +1,1 @@
-This is a placeholder for the file content. Please note: I cannot directly access Google Drive links. 
-
-To complete the upload, please:
-1. Download the file from: https://drive.google.com/file/d/1QeHaX9hQeR7iUWGVM2wKP6Oyfv3QLHQw/view?usp=sharing
-2. Provide the file content to me, or
-3. Use Git commands directly to upload:
-   - git add 13_SE_Lab_exp-2.txt
-   - git commit -m "Add SE Lab experiment 2 file"
-   - git push
+https://drive.google.com/file/d/1QeHaX9hQeR7iUWGVM2wKP6Oyfv3QLHQw/view?usp=sharing
